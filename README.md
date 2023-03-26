@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Soy Albano Díez un técnico electrónico con 3 años de experiencia y actualmente estoy aprendiendo programación multiplataforma. Las que más uso son LabVIEW, C++ y Python</div>  
+### <div align="center">¡Hola! Mi nombre es Albano Díez y soy un apasionado técnico electrónico con tres años de experiencia en el campo. Actualmente estoy expandiendo mis habilidades y aprendiendo programación multiplataforma, lo que me ha llevado a trabajar con una variedad de lenguajes de programación como LabVIEW, Java o MySQL. Me siento muy emocionado de estar involucrado en este campo en constante evolución y estoy ansioso por continuar mi educación en programación y electrónica para poder crear soluciones innovadoras y de calidad.</div>  
   
 
 - 🔭 Actualmente estoy desarrollando este repositorio  [DAM](https://github.com/TerciodeMarte/DAM)  
