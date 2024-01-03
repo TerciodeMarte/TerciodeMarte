@@ -1,4 +1,4 @@
-### <div align="center">¡Hola! Mi nombre es Albano Díez y soy un apasionado desarrollador Backend y Técnico Electrónico que actualmente está aprendiendo programación multiplataforma, incluyendo Java, MySQL y Python.</div>  
+### <div align="center">¡Hello there! Mi nombre es Albano Díez y soy un apasionado desarrollador Backend y Técnico Electrónico que actualmente está aprendiendo programación multiplataforma, incluyendo Java, MySQL y Python.</div>  
   
 
 - 🔭 Actualmente estoy desarrollando este repositorio [DAM](https://github.com/TerciodeMarte/DAM)   
