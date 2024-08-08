@@ -1,13 +1,13 @@
-### <div align="center">¡Hello there! Mi nombre es Albano Díez y soy un apasionado desarrollador Backend y Técnico Electrónico que actualmente está aprendiendo programación multiplataforma, incluyendo Java, MySQL y Python.</div>  
+### <div align="center">¡Hello there! Mi nombre es Albano Díez y soy un apasionado desarrollador Backend y Técnico Electrónico que actualmente está trabajando en LIS Data Solutions.</div>  
   
 
-- 🔭 Actualmente estoy desarrollando este repositorio [DAM](https://github.com/TerciodeMarte/DAM)   
+- 🔭 Actualmente estoy desarrollando este repositorio [Aprendiendo Reflex](https://github.com/TerciodeMarte/Aprendiendo-Reflex-Python)
   
 
-- 🌱Ahora estoy estudiando **Desarrollo Multiplataforma**  
+- 🌱He estudiado **Desarrollo Multiplataforma** -- [DAM](https://github.com/TerciodeMarte/DAM)   
   
 
-- ❓ Pregúntame sobre **Java** o **SQL**  
+- ❓ Pregúntame sobre **Java**, **SQL** o **Python**   
   
 
 - 📫 Email de Contacto **albanodiezp@gmail.com**  
@@ -55,7 +55,9 @@
 <div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
+<a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="50" /></a>  
+<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a> 
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
 <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
